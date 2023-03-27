@@ -1,0 +1,3 @@
+printf
+
+A function that produces output according to a format, handle d, i, u, o x, X conversion specifiers, handle the custom b, S conversion specifier.
